@@ -59,10 +59,10 @@ const LinkTree = () => {
 
   const links = [
     {
-      title: "Acesse o lovescan.app",
+      title: "Crie um QR Code de Amor 💝",
       url: "https://lovescan.app",
       icon: <Heart className="w-5 h-5" />,
-      description: "Supreenda o seu amor!",
+      description: "Acesse o lovescan.app!",
     },
     {
       title: "Siga no Instagram",
@@ -101,7 +101,7 @@ const LinkTree = () => {
             lovescan.app
           </h1>
           <p className="text-gray-600 text-sm">
-            Crie um QR Code que dá acesso à uma apresentação personalizada e
+            Crie um QR Code que dá acesso a uma apresentação personalizada e
             surpreenda o seu amor! 😍💝✨
           </p>
           <div className="max-w-md mx-auto p-6 bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl border border-blue-200 shadow-lg mt-3">
